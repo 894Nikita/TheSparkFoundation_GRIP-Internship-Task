@@ -7,3 +7,7 @@ Task1: Prediction using Supervised ML<br>
 - what will be predicted score if a student studies for 9.25hrs/day.
 - This is a simple linear regression task as it invovles just 2 variable.
 - Dataset: http://bit.ly/w-data
+
+Task2 : Prediction using Unsupervised ML <br>
+- From the given 'Iris' dataset predict the optimum number of clusters and represent it visually.
+- Dataset : https://bit.ly/3kXTdox
